@@ -1,0 +1,39 @@
+
+# Java
+*.class
+
+# Logs
+*.log
+logs/
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+
+# Archives (just in case)
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
